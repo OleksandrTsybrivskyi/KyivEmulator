@@ -1,3 +1,0 @@
-/home/mhobela/Documents/Kyiv_Emulator/Kyiv_emulator/build/CMakeFiles/kyivemu.dir
-/home/mhobela/Documents/Kyiv_Emulator/Kyiv_emulator/build/CMakeFiles/edit_cache.dir
-/home/mhobela/Documents/Kyiv_Emulator/Kyiv_emulator/build/CMakeFiles/rebuild_cache.dir
